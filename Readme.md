@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraForm1.cs](./CS/WindowsApplication1/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/WindowsApplication1/XtraForm1.vb))
+<!-- default file list end -->
 # OBSOLETE - Why are context menus of DX controls not skinned by default? (Example)
 
 
