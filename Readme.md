@@ -1,17 +1,4 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1713)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+This example is obsolete. Place a [BarManager](https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.BarManager) or [RibbonControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.Ribbon.RibbonControl) onto the form to apply a skinning paint theme to DevExpress context menus.
+Ensure a control's **MenuManager** property (for example, [MenuManager](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Container.EditorContainer.MenuManager)) is set to the created BarManager or RibbonControl object.
 
-* [XtraForm1.cs](./CS/WindowsApplication1/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/WindowsApplication1/XtraForm1.vb))
-<!-- default file list end -->
-# OBSOLETE - Why are context menus of DX controls not skinned by default? (Example)
-
-
-<p>See the <a href="https://www.devexpress.com/Support/Center/p/K18257">Why are context menus of DevExpress WinForms controls not skinned by default?</a> KB Article for more information.</p>
-
-<br/>
-
-
+See the following ticket for more information: [Why are context menus of DevExpress WinForms controls not skinned by default?](https://www.devexpress.com/Support/Center/p/K18257).
